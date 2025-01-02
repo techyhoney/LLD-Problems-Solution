@@ -1,0 +1,6 @@
+Missing distance calculation logic for finding nearest locker
+No validation for item size vs locker size compatibility
+No handling of package expiry after 3 days automatically
+No handling of store opening/closing hours
+No synchronization for locker booking
+Missing Factory pattern for creating different types of lockers

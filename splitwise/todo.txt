@@ -1,0 +1,4 @@
+1. Validate Split
+2. Proper Error handling
+3. Balance sheet not coming properly
+4. Check if factory design pattern is used correctly

@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "amazon-locker"
+		},
+		{
+			"path": "splitwise"
+		},
+		{
+			"path": "shopping-cart"
+		},
+		{
+			"path": "atm-machine"
+		},
+		{
+			"path": "notification-system"
+		},
+		{
+			"path": "payment-strategy"
+		}
+	],
+	"settings": {}
+}
